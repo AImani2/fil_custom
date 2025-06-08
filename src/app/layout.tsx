@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 
-export const metadata = {
+export const metadata: Metadata = {
   title: "FiL Custom", // This is the tab name
   description: "Fil Custom Suits",
   icons: {
